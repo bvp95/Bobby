@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Global Brigades</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_loged__in">Loged_In</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="title_activity_newsfeed">Newsfeed</string>
+
+</resources>
